@@ -63,13 +63,12 @@ What this does:
 Result: Host echo flagged with 4 failed attempts ✅
 <img width="1920" height="1008" alt="query png" src="https://github.com/user-attachments/assets/fec7c4f4-6952-402b-a81d-cd8fc6da7c3d" /> 
 
-Step 4: Create Automated Alert
+### Step 4: Create Automated Alert
 Saved the query as an automated alert:
 
-	•	Name: Brute Force Detection Alert
-	•	Condition: Triggers when results > 0
-	•	Schedule: Weekly (configurable to real-time)
-<img width="1920" height="1008" alt="alert png" src="https://github.com/user-attachments/assets/605157a2-27d4-4b1f-844e-a368b0e8d410" />
+- Name: Brute Force Detection Alert
+- Condition: Triggers when results > 0
+- Schedule: Weekly (configurable to real-time)
 Key Takeaways
 
 	•	Understood how SIEM tools ingest and parse log data
