@@ -70,7 +70,7 @@ Saved the query as an automated alert:
 - Condition: Triggers when results > 0
 - Schedule: Weekly (configurable to real-time)
 
-Key Takeaways
+### Key Takeaways
 
 	•	Understood how SIEM tools ingest and parse log data
 	•	Learned SPL basics for threat detection
