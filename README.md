@@ -69,6 +69,7 @@ Saved the query as an automated alert:
 - Name: Brute Force Detection Alert
 - Condition: Triggers when results > 0
 - Schedule: Weekly (configurable to real-time)
+
 Key Takeaways
 
 	•	Understood how SIEM tools ingest and parse log data
