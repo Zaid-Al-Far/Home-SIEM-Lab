@@ -60,7 +60,6 @@ What this does:
 	•	Flags any host with 3+ failures as suspicious
 
 Result: Host echo flagged with 4 failed attempts ✅
-```
 <img width="1920" height="1008" alt="query png" src="https://github.com/user-attachments/assets/fec7c4f4-6952-402b-a81d-cd8fc6da7c3d" /> 
 
 Step 4: Create Automated Alert
