@@ -38,9 +38,11 @@ Uploaded `bruteforce.log` into Splunk Enterprise.
 - Source Type: SIEM (custom)  
 - Index: Default  
 
-![Log Ingestion](log-ingestion.png)
+<img width="1920" height="1080" alt="log-ingestion png" src="https://github.com/user-attachments/assets/3221fe0d-5722-4e9f-a138-3b2ef81afeac" />
 
-![Upload Success](upload-successful.png)
+
+<img width="1920" height="1008" alt="upload-successful png" src="https://github.com/user-attachments/assets/c83d6bbf-a0f4-4594-a212-1883d5418e15" />
+
 
 ---
 
