@@ -53,6 +53,7 @@ Wrote a Splunk Processing Language (SPL) query to detect the attack:
 source="bruteforce.log" "Failed password" 
 | stats count by host 
 | where count >= 3
+```
 What this does:
 
 	•	Filters all “Failed password” events
